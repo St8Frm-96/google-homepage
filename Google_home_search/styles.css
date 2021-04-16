@@ -115,5 +115,19 @@ img {
 
 .right-section {
     margin-right: 3rem;
-  }
+}
+
+.footer-link {
+    display: inline;
+    padding: 1rem 0 1rem 3rem;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+    color: var(--footer-font-hover);
+}
+  
+.footer-link:active {
+    color: var(--footer-font-active);
+}
 
