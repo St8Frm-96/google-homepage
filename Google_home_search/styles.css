@@ -16,7 +16,7 @@
 
 html {
     font-size: 65%;
-  }
+}
 
 body {
     background: #fff;
@@ -37,7 +37,7 @@ button:focus {
 img {
     display: block;
     width: 25%;
-  }
+}
 
 .nav {
     width: auto;
@@ -55,7 +55,7 @@ img {
 
 .nav-link:hover {
     text-decoration: underline;
-  }
+}
 
 .main {
     display: flex;
